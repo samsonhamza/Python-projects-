@@ -1,5 +1,5 @@
 
-# Here is a code for a basic calculator that you can practice with.
+# Here is a python code for a basic calculator that you can practice with.
 
 def add(x, y):
     return x + y
